@@ -1,0 +1,19 @@
+{
+  "name": "lc-switch",
+  "version": "1.0.0",
+  "description": "LC Switch from https://github.com/LCweb-ita/LC-switch.git",
+  "main": "lc_switch.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderkif/LC-switch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexanderkif/LC-switch/issues"
+  },
+  "homepage": "https://github.com/alexanderkif/LC-switch#readme"
+}
